@@ -1,0 +1,24 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  // <uniquifier>: Use a unique and descriptive class name
+  
+  .playpen-sans-<uniquifier> {
+    font-family: "Playpen Sans", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  h2 {color:#darkgray;}
+
+  h1{padding: 0px solid black; margin: 0px;}
+  h1{background-color: rgb(228, 224, 220);}
+  div{background-color: rgb(228, 224, 220);}
+  
+  h1{text-align: center;}
+  div{text-align: center;}
+  
+  h2,p{text-align: center;}
